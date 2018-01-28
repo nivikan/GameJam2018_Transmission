@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Ground
+  - Character
+  - Bubble
+  - Text
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Ground
+  - Characters
+  - Bubble
+  - Text
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backer
+    uniqueID: 2026158107
+    locked: 0
+  - name: Background
+    uniqueID: 3570198085
+    locked: 0
+  - name: Panels
+    uniqueID: 3211402895
+    locked: 0
+  - name: Character
+    uniqueID: 2921137849
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Text
+    uniqueID: 3748617487
+    locked: 0
+  - name: front panel
+    uniqueID: 19718877
+    locked: 0
+  - name: front character
+    uniqueID: 2608559805
+    locked: 0
+  - name: front text
+    uniqueID: 1752768359
+    locked: 0

@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class Scene1_Controller : MonoBehaviour {
 
-	private string mainCharaName = "Carter";
+	private string mainCharaName = "Niko Carter";
 
 	public GameObject Carter;
 	public GameObject WalkingControl;

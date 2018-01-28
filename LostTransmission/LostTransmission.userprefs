@@ -1,17 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/MoveToNext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Scene2/Scene2_Controller.cs">
     <Files>
-      <File FileName="Assets/Script/Scene2/MoveClick2.cs" Line="24" Column="4" />
-      <File FileName="Assets/Script/Dialogue.cs" Line="1" Column="1" />
-      <File FileName="../../Dropbox/DesktopBackUp/Documents/Unity Games/HoardingPrinces/HoardingPrinces/Assets/Scripts/dialogueSystem.cs" Line="1" Column="1" />
-      <File FileName="Assets/Script/LoseColorWhenOff.cs" Line="18" Column="4" />
-      <File FileName="Assets/Script/Scene3/Scene3_Controller.cs" Line="159" Column="17" />
-      <File FileName="Assets/Script/Scene3/Scene3_QuestionBubbles.cs" Line="46" Column="2" />
-      <File FileName="Assets/Script/Scene3/MoveClick3.cs" Line="53" Column="2" />
-      <File FileName="Assets/Script/Scene2/Scene2_Controller.cs" Line="125" Column="7" />
-      <File FileName="Assets/Script/IntoScen/GoNextIntro.cs" Line="18" Column="4" />
-      <File FileName="Assets/Script/MoveToNext.cs" Line="20" Column="39" />
+      <File FileName="Assets/Script/Scene3/Scene3_Controller.cs" Line="172" Column="1" />
+      <File FileName="Assets/Script/Scene3/MoveClick3.cs" Line="8" Column="2" />
+      <File FileName="Assets/Script/Scene4/Scene4_Controller.cs" Line="194" Column="33" />
+      <File FileName="Assets/Script/Scene4/MoveClick4.cs" Line="7" Column="33" />
+      <File FileName="Assets/Script/Scene4/StartConvo.cs" Line="20" Column="71" />
+      <File FileName="Assets/Script/ClickAnim.cs" Line="19" Column="1" />
+      <File FileName="Assets/Script/Scene2/Scene2_Controller.cs" Line="66" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

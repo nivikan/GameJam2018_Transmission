@@ -6,8 +6,12 @@ using UnityEngine.SceneManagement;
 
 public class Scene2_Controller : MonoBehaviour {
 
-	private string mainCharaName = "Carter";
+	private string mainCharaName = "Niko Carter";
 	private string otherName = "??????";
+	public GameObject choiceButton1;
+	public GameObject choiceButton2;
+	public bool stayForDinner = false;
+
 
 	public GameObject Carter;
 	public GameObject WalkingControl;
@@ -59,6 +63,8 @@ public class Scene2_Controller : MonoBehaviour {
 		bubble1.SetActive (false);
 		bubble2.SetActive (false);
 		bubble3.SetActive (false);
+		choiceButton1.SetActive (false);
+		choiceButton2.SetActive (false);
 
 		fronttUIPanel.SetActive (false);
 

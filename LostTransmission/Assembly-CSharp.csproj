@@ -69,6 +69,10 @@
      <Compile Include="Assets\Script\Scene3\MoveClick3.cs" />
      <Compile Include="Assets\Script\Scene3\Scene3_Controller.cs" />
      <Compile Include="Assets\Script\Scene3\Scene3_QuestionBubbles.cs" />
+     <Compile Include="Assets\Script\Scene4\MoveClick4.cs" />
+     <Compile Include="Assets\Script\Scene4\Scene4_Controller.cs" />
+     <Compile Include="Assets\Script\Scene4\StartConvo.cs" />
+     <Compile Include="Assets\Script\Scene5\Scene5_Controller.cs" />
      <Compile Include="Assets\Script\targetMove.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
